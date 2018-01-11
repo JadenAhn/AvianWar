@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvianWar", "AvianWar\AvianWar.csproj", "{75D7CBB8-4D3B-4339-A9F6-FA2964D6E701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D7CBB8-4D3B-4339-A9F6-FA2964D6E701}.Debug|x86.ActiveCfg = Debug|x86
+		{75D7CBB8-4D3B-4339-A9F6-FA2964D6E701}.Debug|x86.Build.0 = Debug|x86
+		{75D7CBB8-4D3B-4339-A9F6-FA2964D6E701}.Release|x86.ActiveCfg = Release|x86
+		{75D7CBB8-4D3B-4339-A9F6-FA2964D6E701}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1AF4C5-844C-4428-A9D0-55F89B939432}
+	EndGlobalSection
+EndGlobal
